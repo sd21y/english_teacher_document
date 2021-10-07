@@ -1,0 +1,42 @@
+topic: ~dialog_baby_happy_baby_sad()
+language: enu
+
+u:(e:MiddleTactilTouched) $onStopped = 1
+u:(e:onStart)
+    \rspd=60\ 
+    
+    # title
+    Baby happy Baby sad \pau=2300\
+    
+    # content
+    Baby happy.. \pau=2300\ baby sad. \pau=2300\
+    
+    Baby happy.. \pau=2300\ baby sad. \pau=2300\
+    
+    Baby sad. \pau=2300\ Baby happy. \pau=2300\
+     
+    Baby happy. \pau=2300\ Baby sad. \pau=2300\
+    
+    Baby happy. \pau=2300\ Baby sad. \pau=2300\
+    
+    Baby sad. \pau=2300\ Baby happy. \pau=2300\
+    
+    Baby happy. \pau=2300\ Baby sad. \pau=2300\
+    
+    Baby happy. \pau=2300\ baby sad. \pau=2300\
+    
+    Baby sad. \pau=2300\ Baby happy. \pau=2300\
+    
+    Baby happy. \pau=2300\ Baby sad. \pau=2300\
+    
+    Baby sad.  \pau=2300\ Baby happy. \pau=2300\
+    
+    More sad baby・・・・・. \pau=2300\
+    
+    More Happy baby・・・・. \pau=2300\　
+    
+    
+    The end
+    
+    $onStopped = 1
+    

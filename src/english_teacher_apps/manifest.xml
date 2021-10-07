@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="english_teacher_apps">
+ <names>
+  <name lang="en_US">english_teacher_apps</name>
+  <name lang="ja_JP">English Teacher Nao Apps</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>ja_JP</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>ja_JP</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="abc">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">abc</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="baby_happy_baby_sad">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">baby happy baby sad</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="baby_shark">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">baby shark</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="brown_bear_brown_bear">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">brown bear</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="freeze_dance">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">freeze dance</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="i_want_a_monkey">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">i want a monkey</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="no_hitting">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">no hitting</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="the_great_hill">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">the great hill</sentence>
+    <sentence lang="en_US">great hill</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="twinkle_twinkle_little_star">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">twinkle twinkle little star</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="wikki_stix">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">wikki stix</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="yummy_yucky">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">yummy yucky</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

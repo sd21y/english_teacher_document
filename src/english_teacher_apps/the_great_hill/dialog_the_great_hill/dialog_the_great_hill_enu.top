@@ -1,0 +1,85 @@
+topic: ~dialog_the_great_hill()
+language: enu
+
+u:(e:onStart)
+\rspd=60\
+# title
+The Great Hill \pau=2300\
+
+# content
+Before time was time, \pau=500\ there was a Great Hill. \pau=500\ And on the Great hill there lived the Yolks. \pau=600\
+The Yolks spent their entire lives climbing the Great Hill, trying to reach the top. \pau=600\
+Some Yolks climbed fast. \pau=500\ Some Yolks climbed slowly. \pau=600\
+One Yolk in particular was a very slow climber. \pau=500\ He was different than the rest of the Yolks. 
+
+\pau=2500\
+
+When he climbed, \pau=500\ all the other Yolks passed him. \pau=600\
+It was hard for him to watch them pass by. \pau=600\
+He felt like the worst climber in the world. \pau=600\
+Some Yolks made fun of him as they passed. \pau=600\
+Others didn’t . 
+
+\pau=2500\
+
+Some Yolks wanted to help him climb but didn’t let them. 
+
+\pau=2500\
+
+It was hard for him to climb. \pau=500\ It was even harder when it rained because the ground got slippery. \pau=600\
+Sometimes it seemed like it was only raining on him. \pau=600\
+But it wasn’t. 
+
+\pau=2500\
+
+There were times when he felt like he wasn’t moving at all. \pau=500\ But he was. \pau=600\
+Then one day he met another Yolk who climbed even slower than he did. \pau=600\
+He helped the slower Yolk climb. 
+
+\pau=2500\
+
+‘Thank you’ \pau=500\ said the slower Yolk. \pau=500\ ‘You’re welcome’ \pau=500\ said the slow Yolk, \pau=500\ ‘I can’t be of much help to anyone else since I climb so slowly’  \pau=800\
+‘Slowly?’ \pau=500\ asked the slower Yolk. \pau=500\ ‘well yes. \pau=500\ I watch other Yolks pass me all the time.’  \pau=800\
+‘I do not know if you are slow or fast, \pau=500\ but I do know that you helped me, \pau=500\ and that you are still climbing.’ \pau=800\
+The slow Yolk said goodbye to the slower Yolk, \pau=500\ and kept climbing. 
+
+\pau=2500\
+
+‘Still climbing’ \pau=500\ he thought to himself. \pau=800\
+‘That is true.’ \pau=500\ And he smiled. 
+
+\pau=2500\
+
+So the Yolk kept climbing. \pau=500\ He climbed when it was nice out, \pau=500\ he climbed when it rained, \pau=500\ and he even climbed when it snowed. 
+
+\pau=2500\
+
+As he kept climbing he got better and better. \pau=600\
+Sometimes he would pass other Yolks and sometimes they would pass him. \pau=600\
+He had stopped paying attention. 
+
+\pau=2500\
+  
+He did notice that some Yolks were no longer climbing. \pau=500\ When a yolk stops climbing it stays where it is. \pau=600\
+Some Yolks stop climbing because they have gone. \pau=600\
+Others stop climbing because they don’t want to climb anymore. 
+
+\pau=2500\
+
+The Yolks that had stopped climbing did not like to be passed, \pau=500\ and they made it harder to get by. \pau=800\
+But the Yolk kept climbing, \pau=500\ right over them. 
+
+\pau=2500\
+
+There were still times when the Yolk thought he was climbing an impossible hill, \pau=500\ but he climbing. 
+
+\pau=2500\
+
+Always, \pau=400\ always, \pau=400\ climbing. \pau=600\
+Do you think he made the top? 
+
+\pau=2300\
+　
+The end
+
+$onStopped = 1

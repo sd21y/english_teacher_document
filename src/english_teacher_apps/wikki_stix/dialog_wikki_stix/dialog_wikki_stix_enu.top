@@ -1,0 +1,67 @@
+topic: ~dialog_wikki_stix()
+language: enu
+
+u:(e:onStart)
+\rspd=60\ 
+
+# title
+The Wikki Stix \pau=2300\
+
+# content
+One cool dude, scarf flying in the breeze…  \pau=500\ 
+Gives a big smile to everyone he sees! \pau=2300\
+
+Top and sides and everywhere…Lots and lots of curly red hair!  \pau=2300\
+
+It must be a birthday…there’s a package to wrap.  \pau=500\ 
+Let’s hurry and finish, and then take a nap.  \pau=2300\
+
+An alien he is to you and me! \pau=500\ 
+THREE eyes to see has he.
+But where can his antennae be? \pau=2300\
+
+What do you see…under the sea? Fish and starfish. Smiling at me. \pau=500\ 
+What can this picture possibily need? \pau=500\ 
+Some slimy. yucky. green seaweed.  \pau=2300\
+
+A dancing purple elephant?  \pau=500\ 
+What a sight to see! \pau=500\ 
+The circus is the place for him. \pau=500\ 
+Wouldn’t you agree? \pau=2300\
+
+Oh dear, said Piggy, where’s my tail gone? \pau=500\ 
+I’ll need some help to put it back on. \pau=2300\
+
+Streamers waving in the sun. \pau=500\ 
+Colorful streamers… just for fun! \pau=2300\
+
+A kite! A kite! Flying high! \pau=500\ 
+Big and beautiful up in the sky. \pau=2300\
+
+Looks like Kitty’s thinking… \pau=500\ 
+Here’s something fun to chew on. \pau=500\ 
+Better quickly add the laces,
+Then hurry… put your shoe on! \pau=2300\
+
+Oh, oh… what have we found? \pau=500\ 
+Mice in the yarn, \pau=500\ 
+which is coming unwound! \pau=2300\
+
+Here’s a train,
+comin’ round the bend. \pau=500\ 
+You can see its front,
+but you can’t see the end. \pau=500\ 
+What color smoke comes out of the stack? \pau=500\ 
+You wouldn’t be wrong if you said it was black! \pau=2300\
+
+Hey. Wiggly Worm. Mr. Pumpkin said: \pau=500\ 
+What are these green things coming out of my head? \pau=2300\
+
+\pau=2300\ It’s cool and chilly, 
+so we’ve built a fire. \pau=500\ 
+Just one peek outside,
+before we retire. \pau=2300\
+
+\pau=3000\ The end \pau=2300\
+
+$onStopped = 1

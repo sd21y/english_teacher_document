@@ -1,0 +1,51 @@
+topic: ~dialog_yummy_yucky()
+language: enu
+
+u:(e:onStart)
+\rspd=60\ 
+
+# title
+Yummy Yucky \pau=2300\
+
+# content
+Spaghetti is yummy. \pau=2300\
+Warms are yucky. \pau=2300\
+
+Blueberries are yummy. \pau=2300\
+Blue crayons are yucky. \pau=2300\
+
+Soup is yummy. \pau=2300\
+Soap is yucky. \pau=2300\
+
+Sandwiches are yummy. \pau=2300\
+Sand is yucky. \pau=2300\
+
+Mommy’s cookies are yummy. \pau=2300\
+Mummy’s coffee is yucky. \pau=2300\
+
+Chocolate sauce is yummy. \pau=2300\
+Hot sauce is yucky. \pau=2300\
+
+Apple pie is yummy. \pau=2300\
+Mud pie is yucky. \pau=2300\
+
+Burgers are yummy. \pau=2300\
+Boogers are yucky. \pau=2300\
+
+Eggs are yummy. \pau=2300\
+Earwax is yucky. \pau=2300\
+
+Fish sticks are yummy. \pau=2300\
+Fish food is yucky. \pau=2300\
+
+Ice cream is yummy. \pau=2300\
+Too much ice cream is yucky. \pau=2300\
+
+More yummy things Pizza \pau=500\ banana \pau=500\ milk \pau=500\ toast \pau=500\ peach \pau=500\ cheese \pau=500\ cupcake \pau=500\ chicken \pau=2300\
+More yucky things garbage. dog food \pau=500\ dish soap \pau=500\ apple cane \pau=500\ kitty litter \pau=500\ stinky sock \pau=500\ toilet paper \pau=500\ centipeade
+
+\pau=2300\
+　
+The end
+
+$onStopped = 1

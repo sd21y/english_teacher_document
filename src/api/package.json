@@ -1,0 +1,17 @@
+{
+  "name": "english_teacher",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ren Kure <ren_kure@sd21.co.jp>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "pm2": "^4.5.6"
+  }
+}

@@ -1,0 +1,166 @@
+topic: ~dialog_i_want_a_monkey()
+language: enu
+
+u:(e:onStart)
+\style=neutral\ \rspd=60\ 
+
+# narration
+I want a Monkey! \pau=1000\ 
+Wally was sure that he wanted a pet. He talked to his Dad about which pet to get.
+
+# wally
+\style=joyful\ \rspd=63\ \vct=130\ \pau=2500\ ‘I want a Monkey who scratches his head! 
+\pau=500\ He’d swing in the house and He’d jump on the bed!’
+
+# dad
+\style=neutral\ \rspd=60\\vct=75\ \pau=2500\ ‘Well,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ said his dad in a kind sort of way, \pau=1000\
+
+# dad
+\rspd=60\ \vct=75\ ‘Did you know that monkeys eat bugs everyday?’ \pau=1000\
+
+# wally
+\vct=130\ ‘Oh No,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ Wally said, \pau=500\
+
+# wally
+\rspd=60\ \vct=130\
+‘We have none to eat.’ Mom likes to squash all the bugs with her feet.’ 
+
+\style=joyful\ \rspd=63\ \pau=2500\ 
+‘Then I want a Hippo!’
+
+# narration
+\style=neutral\ \rspd=60\ \vct=100\ \pau=300\ 
+he screamed to his Dad.
+
+# wally
+\style=joyful\ \rspd=65\ \vct=130\ \pau=300\ ‘He’d eat all our trash, and Mom would be glad!’ 
+
+# dad
+\style=neutral\\rspd=60\\vct=75\ \pau=1000\ 
+‘Hippos need water, it helps them stay cool. I guess we can build him giant sized pool.’
+\pau=1000\
+
+# wally
+\vct=130\ ‘No,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ Wally said, \pau=500\ 
+
+# wally
+\rspd=60\ \vct=130\
+‘he’d be too big to dry, We’d need a mountain of towels to try.’ 
+\pau=2500\
+
+‘I want an Otter who triple back flips, I’d practice swimming when we go for dips.’
+\pau=1000\
+
+# dad
+\vct=75\ ‘Did you know most otters can whistle and chirp?’ \pau=1000\
+
+# wally
+\vct=130\ ‘Oh,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ Wally said with a sad looking frown, \pau=500\
+
+# wally
+\rspd=60\ \vct=130\
+‘We’d have to tell him to keep the noise down,’ 
+
+
+\style=joyful\ \rspd=60\ \pau=2500\ ‘Let’s get a Giraffe!’ 
+
+# narattion
+\style=neutral\ \rspd=70\ \vct=100\ \pau=300\ Wally said with a smile.
+
+# wally
+\style=joyful\ \rspd=63\ \vct=130\ \pau=500\ ‘I’d slide from his neck to a giant clothes pile!’
+\pau=1000\
+
+# dad
+\style=neutral\ \rspd=63\ \vct=75\ \pau=300\
+‘Giraffes hold the record for tallest of all. The jump from their head is a twenty foot fall!’
+
+# wally
+\style=didactic\ \rspd=60\ \vct=130\ \pau=1000\ ‘Gosh.’
+
+# narration
+\style=neutral\ \rspd=70\ \vct=100\ \pau=300\ Wally said as he looked at the ceiling, \pau=500\
+
+# wally
+\rspd=60\ \vct=130\
+‘He’d bump his head even if he were kneeling,’ 
+
+
+\pau=2500\ ‘Well how ’bout a bunny?’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ he said to his dad, \pau=500\
+
+# wally
+\rspd=60\ \vct=130\ ‘ A fluffy and floppy one can’t be that bad.’ \pau=1000\
+
+# dad
+\vct=75\
+‘Bunnies like eating and chew all your stuff. Raising a bunny can really be tough.’
+\pau=1000\
+
+# wally
+\vct=130\
+‘Wow,’ 
+
+# narration
+\rspd=70\ \vct=100\ \pau=300\
+Wally answered, 
+\pau=500\
+
+# wally
+\rspd=60\ \vct=130\
+‘is that really true? Picking a pet is not easy to do.’
+
+
+\style=joyful\ \rspd=63\ \pau=2500\ ‘I want a fish!’ 
+
+# narration
+\style=neutral\ \rspd=70\ \vct=100\ \pau=300\ wally said,
+
+#wally
+\style=joyful\ \rspd=63\ \vct=130\ \pau=500\ 
+“let’s get one!’ \pau=300\ ‘I think a goldfish could be lit of fun.’
+
+# dad
+\style=neutral\ \rspd=60\ \vct=75\ \pau=1000\ ‘Hmm,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ said his dad, with a look of delight. 
+
+# dad
+\style=joyful\ \rspd=63\ \vct=75\ \pau=500\
+‘Good idea Wally, I think that you’re right!’
+
+# wally
+\style=joyful\ \rspd=63\ \vct=130\ \pau=1000\
+‘They’re really good swimmers and make funny faces, And if we get two, we could watch them have races!’
+
+# dad
+\style=neutral\ \rspd=60\ \vct=75\ \pau=2500\
+\vct=75\ ‘Okay,’ \pau=300\
+
+# narration
+\rspd=70\ \vct=100\ said his dad, 
+
+# dad
+\style=joyful\ \rspd=60\ \vct=75\ \pau=500\
+‘That’s just what we’ll do. One goldfish for me, one goldfish for you!’
+ 
+# narration 
+\style=neutral\ \rspd=70\ \vct=100\ \pau=2000\
+The end
+
+$onStopped = 1

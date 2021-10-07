@@ -1,0 +1,47 @@
+topic: ~dialog_brown_bear_brown_bear()
+language: enu
+
+u:(e:onStart)
+\rspd=60\ \readmode=sent\
+
+# Title
+Brown bear Brown bear 　what do you see? \pau=2300\
+
+# Content
+
+Brown bear brown bear what do you see?? \pau=2300\
+I see a red bird looking at me. \pau=2300\
+
+Red bird Red bird what do you see?? \pau=2300\
+I see a yellow duck looking at me. \pau=2300\
+
+Yellow duck yellow duck what do you see?? \pau=2300\
+I see a blue house looking at me. \pau=2300\
+
+Blue house blue house what do you see?? \pau=2300\
+I see a green frog looking at me. \pau=2300\
+
+Green frog green frog what do you see?? \pau=2300\
+I see a purple cat looking at me. \pau=2300\
+
+Purple cat purple cat what do you see?? \pau=2300\
+I see a white dog looking at me. \pau=2300\
+
+White dog white dog what do you see?? \pau=2300\
+I see a black sheep looking at me. \pau=2300\
+
+Black sheep black sheep what do you see?? \pau=2300\
+I see a goldfish looking at me. \pau=2300\
+
+Goldfish gold fish what do you see?? \pau=2300\
+I see a teacher looking at me. \pau=2300\
+
+Teacher Teacher what do you see?? \pau=2300\
+I see children looking at me. \pau=2300\
+
+Children children what do you see?? \pau=2300\
+We see a brown bear, a red bird, a yellow duck, a blue house, a green frog, a purple cat, a white dog, a block sheep, a goldfish and a teacher looking at us. That’s what we see. \pau=2300\　
+
+The end
+
+$onStopped = 1

@@ -1,0 +1,34 @@
+topic: ~dialog_no_hitting()
+language: enu
+
+u:(e:onStart)
+\rspd=60\ 
+# title
+No hitting!! \pau=2300\
+
+# content
+I’m mad!   I want to hit my baby brother. \pau=2300\
+That’s not okay, but I can… \pau=2300\
+Hit some pot and pans. Bang Bang Bang! \pau=2300\
+
+I’m mad!   I want to squeeze the cat. \pau=2300\
+That’s not okay, but I can… \pau=2300\
+Squeeze some clay. Squish squish squish! \pau=2300\
+
+I’m mad!  I want to jump up and down and yell and scream. \pau=2300\
+That’s not okay, but I can… \pau=2300\
+Jump up down and down in the leaves. Crunch crunch crunch! \pau=2300\
+
+I’m mad!  I want to scribble in my sister’s book. \pau=2300\
+That’s not okay, but I can… \pau=2300\
+Scribble on my art pad.  Scribble scribble scribble! \pau=2300\
+
+I’m mad! I want to stick out my tongue at mommy. \pau=2300\
+That’s not okay, but I can… \pau=2300\
+Stick out my tongue and lick a fruit pop. Slurp slurp slurp! \pau=2300\
+
+Do you feel better now?? \pau=2300\
+　
+The end
+
+$onStopped = 1
